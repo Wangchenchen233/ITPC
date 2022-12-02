@@ -1,9 +1,9 @@
-# ITPC
+# ITPC and ITPPC
 This repository provides a reference implementation of ITPC and ITPPC as described in the paper "Spectral Clustering and Embedding with Inter-class Topology-preserving".
 
-# Requirements
+### Requirements
 Install the following packages:
 
-numpy
-matplotlib
-scikit-learn
+- numpy
+- matplotlib
+- scikit-learn
