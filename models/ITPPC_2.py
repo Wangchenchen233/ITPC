@@ -52,4 +52,4 @@ def ITPPC_2(X, Ls0, F0, Local_reg, k, d, n_classes, para):
         # calculate Y
         Z, F, S_l = ITPPC(X, Ls, Lc, F, Local_reg, True, k, d, n_classes, para)
 
-    return Z, S_l
+    return F, S_l
