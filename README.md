@@ -1,5 +1,5 @@
 ## Spectral Clustering and Embedding with Inter-class Topology-preserving
-This repository provides a python implementation of ITPC and its variants as described in the paper ["Spectral Clustering and Embedding with Inter-class Topology-preserving"]().
+This repository provides a python implementation of ITPC and its variants as described in the paper ["Spectral Clustering and Embedding with Inter-class Topology-preserving"](https://doi.org/10.1016/j.knosys.2023.111278).
 
 
 ## Datasets
@@ -29,8 +29,15 @@ para_search_ITPPC.py
 
 ## Citation
 ```sh
-@article{WANG2023LLSRFS,
-
+@article{WANG2023ITPPC,
+title = {Spectral clustering and embedding with inter-class topology-preserving},
+author = {Chenchen Wang and Zhichen Gu and Jin-Mao Wei},
+journal = {Knowledge-Based Systems},
+pages = {111278},
+year = {2023},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2023.111278},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705123010262}
 ```
 # Contact
 If you have any questions, please feel free to contact me with wangc@mail.nankai.edu.cn
